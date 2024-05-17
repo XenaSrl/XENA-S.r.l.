@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xena S.r.l. - Multiservizi e Global Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a, header h1 {
+            color: #fff;
+            text-decoration: none;
+        }
+        header h1 {
+            float: left;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        header nav a {
+            margin: 0 20px;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .showcase {
+            background: url('showcase.jpg') no-repeat center center/cover;
+            min-height: 400px;
+            color: #fff;
+            text-align: center;
+            padding-top: 150px;
+        }
+        .showcase h1 {
+            font-size: 55px;
+            margin-bottom: 10px;
+        }
+        .content {
+            padding: 20px;
+            background: #fff;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Xena S.r.l.</h1>
+            <nav>
+                <a href="#services">Servizi</a>
+                <a href="#technical">Potenziale Tecnico</a>
+                <a href="#contact">Contatti</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="showcase">
+        <div class="container">
+            <h1>Multiservizi e Global Service</h1>
+            <p>Affidati a Xena S.r.l. per una vasta gamma di attività del terziario, consentendoti di concentrarti sul tuo core business.</p>
+        </div>
+    </section>
+
+    <div class="container content">
+        <section id="services" class="section">
+            <h2>Chi Siamo</h2>
+            <p>Xena S.r.l. è una consolidata realtà operante a livello nazionale nel campo dei Multiservizi e del Global Service. Offriamo una vasta gamma di attività del terziario, tra cui pulizie civili e industriali, portierato fiduciario, front office e facchinaggio, consentendo ai nostri clienti di concentrarsi sul loro core business mentre ci occupiamo delle attività accessorie.</p>
+            <p>Ci contraddistinguiamo per la nostra versatilità e l'approccio analitico che caratterizza ogni iniziativa. Sfruttiamo tecnologie all'avanguardia per pianificare, gestire e realizzare le attività con efficienza, precisione e con un elevato standard qualitativo. Grazie alle sinergie tra i nostri incarichi, infatti, siamo in grado di realizzare un global service con prezzi competitivi senza compromettere la qualità.</p>
+        </section>
+
+        <section id="cleaning" class="section">
+            <h2>Pulizie Civili e Industriali</h2>
+            <p>Xena S.r.l. si distingue nel settore del pulimento per la proposta di soluzioni efficaci, efficienti e sostenibili. Con una consistenza numerica di circa cinquanta unità, la professionalità del nostro personale, costantemente formato, unita all'utilizzo di ecobot autonomi, ci consente di garantire non solo alti standard qualitativi di risultato, ma anche di ottimizzare l'uso delle risorse idriche, riducendo così l'impatto ambientale.</p>
+            <p>Implementiamo impianti d'erogazione e diluizione dei prodotti chimici direttamente presso il cliente, rafforzando il nostro impegno per la sostenibilità. Attualmente, perseguendo la certificazione di qualità ed ambiente, confermiamo il nostro impegno verso gli standard più elevati di gestione aziendale e responsabilità ambientale.</p>
+            <p>Con Xena S.r.l., hai la certezza di ricevere un servizio professionale che soddisfa le tue esigenze aziendali e promuove attivamente il benessere dell'ambiente.</p>
+        </section>
+
+        <section id="front-office" class="section">
+            <h2>Front Office ed Accoglienza</h2>
+            <p>Il servizio di accoglienza esternalizzata di Xena S.r.l. è un pilastro fondamentale per migliorare l'esperienza del cliente e ottimizzare la gestione delle attività amministrative nel front office. Grazie alla combinazione di professionalità umana e tecnologie all'avanguardia, offriamo soluzioni integrate basate sull'intelligenza artificiale (AI) che garantiscono un servizio efficiente e mirato.</p>
+            <ul>
+                <li>Chatbot o assistenti virtuali per interazioni online immediate</li>
+                <li>Sistema di gestione delle prenotazioni intuitivo</li>
+                <li>Analisi dei dati dei clienti per servizi personalizzati</li>
+                <li>Sistemi di riconoscimento vocale per migliorare l'accessibilità</li>
+                <li>Automazione dei processi amministrativi</li>
+                <li>Software di riconoscimento facciale per il controllo degli accessi</li>
+            </ul>
+            <p>Integrando queste soluzioni avanzate nel nostro servizio di accoglienza esternalizzata, garantiamo un'esperienza superiore per i clienti e una gestione più efficace delle attività amministrative nel front office. Adottiamo misure adeguate per garantire la conformità normativa e la protezione delle informazioni personali dei visitatori.</p>
+        </section>
+
+        <section id="handling" class="section">
+            <h2>Facchinaggio, Fattorini e Personale Ausiliario</h2>
+            <p>Lo staff di Xena S.r.l. opera anche per attività di movimentazione ed imballaggio con facchini esperti in trasporto e allestimento di mobili, stand e arredi in genere. Queste lavorazioni sono realizzate con una ricca flotta aziendale di veicoli merci per ogni necessità.</p>
+            <p>Grazie all’esperienza di questi ausiliari, Xena gestisce le lavorazioni intra servizi, tutte le attività necessarie al buon funzionamento delle commesse, garantendone in tal modo la perfetta riuscita. Mediante accentramento contributivo e due distaccamenti, in Liguria e centro sud, Xena ha raccolto consenso da parte di svariate tipologie di committenza sul territorio nazionale.</p>
+            <p>Sono in corso rapporti con pregiate e significative realtà come holding, comprensori, fabbriche, laboratori e uffici vari.</p>
+        </section>
+
+        <section id="technical" class="section">
+            <h2>Potenziale Tecnico in Azienda</h2>
+            <h3>Veicoli e Trasporti</h3>
+            <ul>
+                <li>Furgoni con sponda idraulica</li>
+                <li>Minivan per il trasporto delle attrezzature e del personale</li>
+                <li>Auto aziendali per sopralluoghi e piccoli interventi</li>
+            </ul>
+
+            <h3>Macchinari per Pulizie Civili e Industriali</h3>
+            <ul>
+                <li>Aspirapolvere professionali</li>
+                <li>Macchine lavasciuga</li>
+                <li>Monospazzole per lavaggi di fondo e lucidatrici</li>
+                <li>Ecobot autonomi per il lavaggio dei pavimenti</li>
+                <li>Ecobot autonomi per la scopatura aerea esterna</li>
+                <li>Ecobot autonomi per la pulizia dei servizi igienici</li>
+            </ul>
+
+            <h3>Attrezzature per Pulizie di Superfici Vetrate</h3>
+            <ul>
+                <li>Scale, scale a punta e trabatelli</li>
+                <li>Aste telescopiche con accessori per la pulizia dei vetri</li>
+                <li>Raschietti per vetri</li>
+            </ul>
+
+            <h3>Macchinari per Pulizia di Tappeti e Moquette</h3>
+            <ul>
+                <li>Lavamoquette iniezione ed estrazione</li>
+                <li>Generatori di vapore</li>
+            </ul>
+
+            <h3>Attrezzature per Pulizia Industriale e Aree Esterne</h3>
+            <ul>
+                <li>Idropulitrici ad alta pressione</li>
+                <li>Soffiatori</li>
+            </ul>
+
+            <h3>Prodotti Chimici Professionali (Eco-sostenibili)</h3>
+            <ul>
+                <li>Detergenti multiuso concentrati</li>
+                <li>Disinfettanti professionali</li>
+                <li>Deceranti</li>
+                <li>Cere, protettori e sigillanti</li>
+                <li>Impianti d’erogazione eco-sostenibili</li>
+            </ul>
+
+            <h3>Attrezzature di Movimentazione e Sollevamento</h3>
+            <ul>
+                <li>Carrelli manuali (transpallet)</li>
+                <li>Carrelli elettrici (transpallet elettrici)</li>
+                <li>Carrelli a mano per il trasporto di scatole e oggetti voluminosi</li>
+                <li>Piattaforme elevatrici</li>
+                <li>Sollevatori a vuoto per oggetti pesanti</li>
+            </ul>
+
+            <h3>Attrezzature per Imballaggio</h3>
+            <ul>
+                <li>Macchine avvolgitrici</li>
+                <li>Reggettatrici</li>
+                <li>Sigillatrici</li>
+                <li>Nastro adesivo industriale e dispenser</li>
+            </ul>
+
+            <h3>Equipaggiamenti di Sicurezza</h3>
+            <ul>
+                <li>Guanti antiscivolo e protettivi</li>
+                <li>Caschi di sicurezza</li>
+                <li>Scarpe antinfortunistiche</li>
+                <li>Gilet ad alta visibilità</li>
+                <li>Cinture lombari per il sollevamento sicuro</li>
+            </ul>
+
+            <h3>Strumenti e Accessori Vari</h3>
+            <ul>
+                <li>Scale e trabattelli per raggiungere altezze</li>
+                <li>Cassette degli attrezzi con strumenti di base</li>
+                <li>Sistemi di stoccaggio per attrezzature e materiali</li>
+                <li>Pallet e bancali</li>
+            </ul>
+        </section>
+
+        <section id="contact" class="section">
+            <h2>Contatti</h2>
+            <p>Via Limana 53, 41123 Modena</p>
+            <p>Email: <a href="mailto:direzione@xe-na.it">direzione@xe-na.it</a></p>
+            <p>Telefono: <a href="tel:+393485822998">348 582 299 8</a></p>
+            <p>Website: <a href="http://www.xe-na.com" target="_blank">www.xe-na.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Xena S.r.l. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
